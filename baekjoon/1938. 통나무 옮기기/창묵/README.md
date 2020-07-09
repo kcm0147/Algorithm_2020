@@ -7,7 +7,8 @@
     3) visit배열은 dir에 따라 다르게 설정하였다. [x][y][dir]
     4) 이동가능여부 확인 및 회전가능 여부에 따라 que에 추가하였다. -> 회전가능 여부 확인은 문제에 나와있는대로 6점을 다 체크하였다.
     5) 통나무의 start middlePoint 가 목표점인 end middlePoint와 같게 되면 통나무가 도착한거니깐 그대로 결과 return
-
+    
+![캡처](https://user-images.githubusercontent.com/57346393/87018353-166f2400-c20c-11ea-9ef1-a0aa349a5a03.JPG)
 
 # 느낀점
 
