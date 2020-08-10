@@ -25,7 +25,7 @@
 | 3주차  | [파이프 옮기기 1](https://www.acmicpc.net/problem/17070) | [뒤집기](https://www.acmicpc.net/problem/15999) | [파이프 옮기기 2](https://www.acmicpc.net/problem/17069) | |
 | 4주차  | [아기 상어](https://www.acmicpc.net/problem/16236) | [개구리 점프](https://www.acmicpc.net/problem/17619) | | |
 | 5주차  | [사과와 바나나](https://www.acmicpc.net/problem/3114) | [불!](https://www.acmicpc.net/problem/4179)| | |
-| 6주차  | [주사위 윷놀이](https://www.acmicpc.net/problem/17825) |  | | |
+| 6주차  | [주사위 윷놀이](https://www.acmicpc.net/problem/17825) | [석판 자르기](https://www.acmicpc.net/problem/2339) | | |
 ### :rainbow: 참여자
 
 - 김창묵
