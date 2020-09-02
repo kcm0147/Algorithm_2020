@@ -28,7 +28,7 @@
 | 6주차 | [주사위 윷놀이](https://www.acmicpc.net/problem/17825)   | [석판 자르기](https://www.acmicpc.net/problem/2339)     |                                                          |
 | 7주차 | [카드 섞기](https://www.acmicpc.net/problem/1091)        | [부분배열 고르기](https://www.acmicpc.net/problem/2104) |                                                          |
 | 8주차 | [스티커 붙이기](https://www.acmicpc.net/problem/18808)   |                                                         |                                                          |
-| 9주차 | [미네랄](https://www.acmicpc.net/problem/2933)   |                                                         |       
+| 9주차 | [미네랄](https://www.acmicpc.net/problem/2933)           | [사전](https://www.acmicpc.net/problem/1256)            |                                                          |
 ### :rainbow: 참여자
 
 - 김창묵
