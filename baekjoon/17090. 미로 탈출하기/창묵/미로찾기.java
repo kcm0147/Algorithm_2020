@@ -34,7 +34,6 @@ public class Main{
 
         map=new char[N][M];
         check=new int[N][M];
-
         for(int i=0;i<N;i++){
             String temp = br.readLine();
             for (int j=0;j<M;j++){
