@@ -30,6 +30,7 @@
 | 8주차  | [스티커 붙이기](https://www.acmicpc.net/problem/18808)   |                                                         |                                                          |
 | 9주차  | [미네랄](https://www.acmicpc.net/problem/2933)           | [사전](https://www.acmicpc.net/problem/1256) |                                                          |
 | 10주차 | [별 찍기 - 11](https://www.acmicpc.net/problem/2448)     | [미로 탈출하기](https://www.acmicpc.net/problem/17090) |                                                          |
+| 11주차 | [파일 합치기](https://www.acmicpc.net/problem/11066)     |  |                                                          |
 ### :rainbow: 참여자
 
 - 김창묵
