@@ -1,3 +1,3 @@
-# 1938. 통나무 옮기기
+# 1725. 히스토그램
 
 문제링크 : https://www.acmicpc.net/problem/1725
