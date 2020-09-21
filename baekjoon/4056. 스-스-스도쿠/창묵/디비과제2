@@ -1,0 +1,89 @@
+
+
+// 학생
+create table student(
+    sid int(4),
+    sname char(10),
+    stel char(20),
+    address char(30)
+);
+
+insert into student values(12331,"홍길동","123-3456","복현동");
+insert into student values(12332,"김철수","354-5682","신천동");
+insert into student values(12333,"김영희","564-8761","범어동");
+
+//교수
+
+create table professor(
+    sid int(4),
+    pname char(10),
+    department char(20),
+    ptel char(20)
+);
+
+insert into professor values(200,"김용주","컴퓨터","987-8765");
+insert into professor values(201,"이우정","컴퓨터","345-7654");
+insert into professor values(202,"한성준","컴퓨터","872-0964");
+
+//과목
+create table subject(
+    code char(10),
+    sname char(20),
+    score int(4),
+    year int(4)
+);
+
+insert into subject values("A01","데이터베이스",3,3);
+insert into subject values("A02","운영체제",2,2);
+insert into subject values("A03","그래픽스",3,4);
+
+//지도
+
+create table teach(
+    pid int(4),
+    sid int(4)
+);
+
+insert into teach values(200,12331);
+insert into teach values(200,12332);
+insert into teach values(202,12333);
+
+
+//강의
+
+
+create table lecture(
+    pid int(4),
+    code char(20),
+    time char(20),
+    place char(20)
+);
+
+insert into lecture values(200,"A01","14:00","IT4-102");
+insert into lecture values(200,"A02","15:30","IT5-329");
+insert into lecture values(201,"A03","16:00","IT5-324");
+
+
+//수강
+
+create table sugang(
+    sid int(4),
+    code char(20),
+    grade char(4)
+);
+
+insert into sugang values(12331,"A01","A");
+insert into sugang values(12331,"A02","B");
+insert into sugang values(12333,"A01","A");
+
+
+
+
+3번
+
+select * from subject;
+update course set credit=3 where code='A02';
+alter table subject add column classroom char(10);
+update subject set classroom='E407' where code='A01';
+update subject set classroom='F107' where code='A03';
+update subject set classroom='E504' where code='A02';
