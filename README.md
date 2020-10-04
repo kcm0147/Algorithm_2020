@@ -32,6 +32,7 @@
 | 10주차 | [별 찍기 - 11](https://www.acmicpc.net/problem/2448)     | [미로 탈출하기](https://www.acmicpc.net/problem/17090)  |                                                          |
 | 11주차 | [파일 합치기](https://www.acmicpc.net/problem/11066)     | [히스토그램](https://www.acmicpc.net/problem/1725)      |                                                          |
 | 12주차 | [Messi Gimossi](https://www.acmicpc.net/problem/17297)   | [스-스-스도쿠](https://www.acmicpc.net/problem/4056)    |                                                          |
+| 13주차 | [팩맨](https://www.acmicpc.net/problem/11451)            | [청소년 상어](https://www.acmicpc.net/problem/19236)    |                                                          |
 ### :rainbow: 참여자
 
 - 김창묵
