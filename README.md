@@ -55,6 +55,8 @@
 | 2021.02.03 | [팰린드롬 공장](https://www.acmicpc.net/problem/1053) | [전구](https://www.acmicpc.net/problem/2550) | [뮤탈리스크](https://www.acmicpc.net/problem/12869) |
 | 2021.02.04 | [교환](https://www.acmicpc.net/problem/1039) | [알 수 없는 문장](https://www.acmicpc.net/problem/1099) | [어른 상어](https://www.acmicpc.net/problem/19237) |
 | 2021.02.05 | [수영장 만들기](https://www.acmicpc.net/problem/1113) | [알약](https://www.acmicpc.net/problem/4811) | [여왕벌](https://www.acmicpc.net/problem/10836) |
+| 2021.02.07 | 카카오 2019 블라인드 인턴쉽| [크레인 인형뽑기](https://programmers.co.kr/learn/courses/30/lessons/64061) |[튜플](https://programmers.co.kr/learn/courses/30/lessons/64065) |
+| 카카오 인턴쉽 테스트 | [불량 사용자](https://programmers.co.kr/learn/courses/30/lessons/64064)| [징검다리 건너기](https://programmers.co.kr/learn/courses/30/lessons/64062) | [호텔 방배정](https://programmers.co.kr/learn/courses/30/lessons/64063) |
 
 <br/>
 
