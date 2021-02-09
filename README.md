@@ -58,7 +58,8 @@
 | 2021.02.07 | 카카오 2019 블라인드 인턴쉽| [크레인 인형뽑기](https://programmers.co.kr/learn/courses/30/lessons/64061) |[튜플](https://programmers.co.kr/learn/courses/30/lessons/64065) |
 | 카카오 인턴쉽 테스트 | [불량 사용자](https://programmers.co.kr/learn/courses/30/lessons/64064)| [징검다리 건너기](https://programmers.co.kr/learn/courses/30/lessons/64062) | [호텔 방배정](https://programmers.co.kr/learn/courses/30/lessons/64063) |
 | 2021.02.10 | [개미굴](https://www.acmicpc.net/problem/14725) | [가장 가까운 공통조상](https://www.acmicpc.net/problem/3584) | [해킹](https://www.acmicpc.net/problem/10282) |
-
+| 2021.02.12 | [연속합2](https://www.acmicpc.net/problem/13398) | [짝합 수열](https://www.acmicpc.net/problem/12103) | [가스관](https://www.acmicpc.net/problem/2931) |
+| 2021.02.14 | [사이클 게임](https://www.acmicpc.net/problem/20040) | [로봇 조립](https://www.acmicpc.net/problem/18116) | [좋다](https://www.acmicpc.net/problem/1253) |
 <br/>
 
 ### :rainbow: Daily Study 참여자
