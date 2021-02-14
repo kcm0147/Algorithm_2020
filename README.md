@@ -60,6 +60,10 @@
 | 2021.02.10 | [개미굴](https://www.acmicpc.net/problem/14725) | [가장 가까운 공통조상](https://www.acmicpc.net/problem/3584) | [해킹](https://www.acmicpc.net/problem/10282) |
 | 2021.02.12 | [연속합2](https://www.acmicpc.net/problem/13398) | [목장건설하기](https://www.acmicpc.net/problem/14925) | [가스관](https://www.acmicpc.net/problem/2931) |
 | 2021.02.14 | [사이클 게임](https://www.acmicpc.net/problem/20040) | [로봇 조립](https://www.acmicpc.net/problem/18116) | [좋다](https://www.acmicpc.net/problem/1253) |
+| 2021.02.16 | [여행](https://www.acmicpc.net/problem/2157) | [유전자](https://www.acmicpc.net/problem/2306) | [벽장문의 이동](https://www.acmicpc.net/problem/2666) |
+| 2021.02.18 | [구간 나누기2](https://www.acmicpc.net/problem/13397) | [샤워실 바닥 깔기](https://www.acmicpc.net/problem/14600) | [서강그라운드](https://www.acmicpc.net/problem/14938) |
+| 2021.02.20 | [역사](https://www.acmicpc.net/problem/1613) | [사냥꾼](https://www.acmicpc.net/problem/8983) | [덧셈](https://www.acmicpc.net/problem/10504) |
+
 <br/>
 
 ### :rainbow: Daily Study 참여자
