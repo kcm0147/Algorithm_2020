@@ -65,6 +65,7 @@
 | 2021.02.20 | [역사](https://www.acmicpc.net/problem/1613) | [사냥꾼](https://www.acmicpc.net/problem/8983) | [덧셈](https://www.acmicpc.net/problem/10504) |
 | 2021.02.23 | [거짓말](https://www.acmicpc.net/problem/1043) | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | [치즈](https://www.acmicpc.net/problem/2638) |
 | 2021.02.25 | [축구](https://www.acmicpc.net/problem/1344) | [레이스](https://www.acmicpc.net/problem/1508) | [소년점프](https://www.acmicpc.net/problem/16469) |
+| 2021.02.27 | [전단지 돌리기](https://www.acmicpc.net/problem/19542) | [가르침](https://www.acmicpc.net/problem/1062) | [좋은수열](https://www.acmicpc.net/problem/2661) |
 
 <br/>
 
