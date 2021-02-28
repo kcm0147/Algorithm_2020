@@ -66,6 +66,9 @@
 | 2021.02.23 | [거짓말](https://www.acmicpc.net/problem/1043) | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | [치즈](https://www.acmicpc.net/problem/2638) |
 | 2021.02.25 | [축구](https://www.acmicpc.net/problem/1344) | [레이스](https://www.acmicpc.net/problem/1508) | [소년점프](https://www.acmicpc.net/problem/16469) |
 | 2021.02.27 | [전단지 돌리기](https://www.acmicpc.net/problem/19542) | [가르침](https://www.acmicpc.net/problem/1062) | [좋은수열](https://www.acmicpc.net/problem/2661) |
+| 2021.02.28 | 카카오 2021 블라인드 채용 | [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410) |[메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411) |
+| | [순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412)| [합승 택시 요금](https://programmers.co.kr/learn/courses/30/lessons/72413) | [광고 삽입](https://programmers.co.kr/learn/courses/30/lessons/72414) |
+| | [카드 짝 맞추기](https://programmers.co.kr/learn/courses/30/lessons/72415)| [매출 하락 최소화](https://programmers.co.kr/learn/courses/30/lessons/72416) | |
 
 <br/>
 
