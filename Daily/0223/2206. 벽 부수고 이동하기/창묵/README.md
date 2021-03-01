@@ -1,11 +1,54 @@
+[요구사항]
+
+(1,1)에서 (N,M)의 위치까지 이동을 하려고하는데 벽을 최대 한개까지 깰 수 있다. 
+
+이동할 수 있는 모든 경우 중 최단시간을 구해야합니다.
+
+
+<br/>
+
+저는 이 문제를 1000 * 1000 이라서 순간 BFS가 아닌 DP로 접근을 하였습니다.
+
+알고보니 BFS를 이용하여 문제를 푸는 것이 조금 더 시간이 적게 걸릴 수 있었습니다.
+
+일단 DP로 문제를 해결하였기 때문에 DP를 `dp[x][y][crash] = x,y에서 N,M까지 이동하는데 걸리는 최단시간`으로 정의를 하였습니다.
+
+다만 벽을 한개까지 부술 수 있기 때문에 Crash의 값을 0 or 1로 정의하였습니다. 
+
+crash가 0이면 벽을 아직 한개도 안 부순 상황이고 1이면 벽을 한개 부순 상황입니다.
+
+이렇게 `dp[1][1][0]`과 `dp[1][1][1]` 중 작은 값을 답으로 출력하면 답이 나옵니다.
+
+---
+
+만약 BFS로 문제를 접근한다면 visit[] 배열을 visit[x][y][crash]를 만들어 놓고, bfs를 진행하여야 합니다.
+
+1) map[x][y]가 벽이면 현재 Que에서 벽을 부술 수 있는 능력이 있으면 이동을 할 수 있습니다.
+
 ```java
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.util.Arrays;
-import java.util.StringTokenizer;
+if (map[x][y]== 1 && queNode.iscrash) {
+            
+}
 
+```
+
+2) map[x][y]가 벽이아니면 현재 Que에서 벽을 부술 수 있는 능력에따라 방문 여부를 확인하고 이동을 할 수 있습니다.
+
+```java
+if( map[x][y]==0 &&!visit[x][y][crash]){
+    ...
+}
+
+```
+
+
+bfs 연습하기에 정말 좋은 문제였다고 생각합니다.
+
+
+<br/> <br/>
+
+```java
 public class Main {
 
     static int N,M;
@@ -91,33 +134,6 @@ public class Main {
         return Integer.parseInt(input);
     }
 }
-```
 
-
-```java
-
-BFS로 풀수도 있는데, BFS의 브루트앤포스나 백트랙킹을 사용하면 더 좋다. ( 탐색할려는곳에 그 전보다 이미 count가 더 크면 굳이 탐색필요 x )
-
-for (int dir = 0; dir < 4; dir++) {
-                int ny = p.y + dy[dir];
-                int nx = p.x + dx[dir];
-
-                if (ny < 0 || nx < 0 || ny >= n || nx >= m) continue;
-
-                if (visited[ny][nx] <= p.count) continue;
-
-                if (map[ny][nx] == 0) {
-                    visited[ny][nx] = p.count;
-                    q.offer(new Place(ny, nx, p.dist + 1, p.count));
-
-                } else {
-                    if (p.count == 0) {
-                        visited[ny][nx] = p.count + 1;
-                        q.offer(new Place(ny, nx, p.dist + 1, p.count + 1));
-                    }
-                }
-
-            }
-        }
 
 ```
