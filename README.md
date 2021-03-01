@@ -47,7 +47,7 @@
 ---
 <br/>
 
-`알고리즘 방학 스터디 2기`
+`알고리즘 방학 스터디 2기` (2021/02/03 ~ 2021/02/28)
 
 ### :cloud: Daily Study
 |        | 1                                                        | 2                                                       | 3                                                        |
@@ -72,12 +72,23 @@
 
 <br/>
 
-### :rainbow: Daily Study 참여자
+### :cloud: Daily Study
 
 - 김창묵
 - 권현수
 - 한현민
 
+---
+
+<br/>
+
+`2021-1학기 알고리즘 스터디` (2021/03/02~)
+
+### :pen: Week Study
+
+|        | 1    | 2   | 3     | 4    |5      |6    |
+| :----: | ------- | -------- | --------| --------- |---------| ----------- |
+| 2021.03.01~03.07 | [저울](https://www.acmicpc.net/problem/10159)   | [인터넷 설치](https://www.acmicpc.net/problem/1800)  | [숫자박스](https://www.acmicpc.net/problem/1983)  |[최종순위](https://www.acmicpc.net/problem/3665) | [소가 길을 건너는 이유4](https://www.acmicpc.net/problem/14464) | [타일채우기](https://www.acmicpc.net/problem/2718) |   
 
 
 
