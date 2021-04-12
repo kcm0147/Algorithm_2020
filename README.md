@@ -93,7 +93,6 @@
 | 2021.03.22~03.28 | [우수 마을](https://www.acmicpc.net/problem/1949) | [다이어트](https://www.acmicpc.net/problem/1484) | [야근 지수](https://programmers.co.kr/learn/courses/30/lessons/12927) | [선입선출 스케줄링](https://programmers.co.kr/learn/courses/30/lessons/12920)
 | 2021.03.29~04.04 | [뉴스 전하기](https://www.acmicpc.net/problem/1135) | [줄세우기](https://www.acmicpc.net/problem/2631) | [로봇 청소기](https://programmers.co.kr/learn/courses/30/lessons/4991)
 | 2021.04.05~04.11 | [사전](https://www.acmicpc.net/problem/1256) | [빵집](https://www.acmicpc.net/problem/3109) | [클레어와 물약](https://www.acmicpc.net/problem/20119) 
-
 | 2021.04.12~04.18 | [같이 눈사람 만들래?](https://www.acmicpc.net/problem/20366) | [이진수 게임](https://www.acmicpc.net/problem/18112) 
 
 
