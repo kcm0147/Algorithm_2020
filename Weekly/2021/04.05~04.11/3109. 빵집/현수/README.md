@@ -14,68 +14,84 @@ date: '2021-04-21'
 <details><summary> 코드 보기 </summary>
 
 ``` java
+import java.awt.Point;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.*;
+import java.util.ArrayList;
+import java.util.List;
 
-public class Q1005 {
-    static int n, k, w, inDegree[], time[];
-    static List<Integer> adj[];
+public class Q3109 {
+
+    static int r, c;
+    static int dx[] = {-1, 0, 1}, dy[] = {1, 1, 1};
+    static char board[][];
+    static boolean visited[][], blocked[][];
+    static List<Point> trace;
     public static void main(String[] args) throws IOException {
+        init();
+        solution();
+    }
+
+    private static void solution() {
+        int ans = 0;W
+        for (int i = 0; i < r; i++) {
+            trace = new ArrayList<>();
+            if(dfs(i, 0)){
+                ans += 1;
+                for(Point p : trace) {
+                    blocked[p.x][p.y] = true;
+                }
+            }
+        }
+        System.out.println(ans);
+    }
+
+    private static boolean dfs(int x, int y) {
+        if(y == c - 1) {
+            trace.add(new Point(x, y));
+            return true;
+        }
+
+        visited[x][y] = true;
+        for (int d = 0; d < 3; d++) {
+            int nx = x + dx[d], ny = y + dy[d];
+            if(!isBorder(nx ,ny) || board[nx][ny] == 'x' || visited[nx][ny] || blocked[nx][ny])
+                continue;
+
+            if(dfs(nx, ny)){
+                trace.add(new Point(x, y));
+                return true;
+            }
+        }
+        return false;
+    }
+
+    private static boolean isBorder(int x, int y) {
+        return (x >= 0 && x < r && y >= 0 && y < c);
+    }
+
+    private static void init() throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        StringTokenizer st = new StringTokenizer(br.readLine());
-        int tc = Integer.parseInt(st.nextToken());
-        while(tc-- > 0){
-            init(br, st);
-            solution();
-        }
-
-    }
-
-    static void solution() {
-        Queue<Integer> q = new LinkedList<>();
-        int result[] = new int[n + 1];
-
-        for (int i = 1; i <= n; i++) {
-            if(inDegree[i] == 0) {
-                q.add(i);
-                result[i] = time[i];
+        String[] input = br.readLine().split(" ");
+        r = stoi(input[0]);
+        c = stoi(input[1]);
+        board = new char[r][c];
+        visited = new boolean[r][c];
+        blocked = new boolean[r][c];
+        for (int i = 0; i < r; i++) {
+            String line = br.readLine();
+            for (int j = 0; j < c; j++) {
+                board[i][j] = line.charAt(j);
             }
         }
-        while(!q.isEmpty()){
-            int here = q.poll();
-            for (int next : adj[here]) {
-                inDegree[next] -= 1;
-                if(inDegree[next] == 0) q.add(next);
-                result[next] = Math.max(result[next], result[here] + time[next]);
-            }
-        }
-        System.out.println(result[w]);
     }
 
-    static void init(BufferedReader br, StringTokenizer st) throws IOException {
-        st = new StringTokenizer(br.readLine());
-        n = Integer.parseInt(st.nextToken());
-        k = Integer.parseInt(st.nextToken());
-        time = new int[n + 1];
-        adj = new List[n + 1];
-        inDegree = new int[n + 1];
-        st = new StringTokenizer(br.readLine());
-        for (int i = 1; i <= n; i++) {
-            adj[i] = new ArrayList<>();
-            time[i] = Integer.parseInt(st.nextToken());
-        }
-        for (int i = 0; i < k; i++) {
-            st = new StringTokenizer(br.readLine());
-            int s = Integer.parseInt(st.nextToken());
-            int d = Integer.parseInt(st.nextToken());
-            adj[s].add(d);
-            inDegree[d] += 1;
-        }
-        w = Integer.parseInt(br.readLine());
+    private static int stoi(String str) {
+        return Integer.parseInt(str);
     }
 }
+
 ```
 </details>
 
