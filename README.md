@@ -96,5 +96,6 @@
 | 2021.04.12~04.18 | [같이 눈사람 만들래?](https://www.acmicpc.net/problem/20366) | [이진수 게임](https://www.acmicpc.net/problem/18112)
 | 2021.05.10~05.16 | [방 번호](https://www.acmicpc.net/problem/1082) | [파일 합치기 3](https://www.acmicpc.net/problem/13975) | [숨바꼭질 2](https://www.acmicpc.net/problem/12851) 
 | 2021.05.17~05.23 | [벽 부수고 이동하기 4](https://www.acmicpc.net/problem/16946) | [마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057) | [미친 아두이노](https://www.acmicpc.net/problem/8972) 
+| 2021.05.24~05.30 | [행성 연결](https://www.acmicpc.net/problem/16398) | [등수 찾기](https://www.acmicpc.net/problem/17616) | [패셔니스타](https://www.acmicpc.net/problem/5535) 
 
 
