@@ -1,4 +1,4 @@
-# 10775. 공황
+# 10775. 공항
 
 문제링크 : https://www.acmicpc.net/problem/10775
 
