@@ -103,11 +103,12 @@
 <br/>
 
 `알고리즘 방학 스터디 3기` (2021/06/25 ~ 2021/08/31)
+
 ### 🌟: Week Study
 
 |        | 1    | 2   | 3     | 4    |5      |6    |7    |
 | :----: | ------- | -------- | --------| --------- | --------- | ----------- | ----------- |
-| 2021.06.25~07.04 | [숫자](https://www.acmicpc.net/problem/1131)   | [공황](https://www.acmicpc.net/problem/10775)  | | | | | | 
+| 2021.06.25~07.04 | [숫자](https://www.acmicpc.net/problem/1131)   | [공항](https://www.acmicpc.net/problem/10775) | [Dance Dance Revolution](https://www.acmicpc.net/problem/2342) | | | | |
 
 
 
