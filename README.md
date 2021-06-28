@@ -108,7 +108,7 @@
 
 |        | 1    | 2   | 3     | 4    |5      |6    |7    |
 | :----: | ------- | -------- | --------| --------- | --------- | ----------- | ----------- |
-| 2021.06.25~07.04 | [숫자](https://www.acmicpc.net/problem/1131)   | [공항](https://www.acmicpc.net/problem/10775) | [Dance Dance Revolution](https://www.acmicpc.net/problem/2342) | | | | |
+| 2021.06.25~07.04 | [숫자](https://www.acmicpc.net/problem/1131)   | [공항](https://www.acmicpc.net/problem/10775) | [Dance Dance Revolution](https://www.acmicpc.net/problem/2342) | [집합의 개수](https://www.acmicpc.net/problem/2092) | | | |
 
 
 
