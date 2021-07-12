@@ -110,4 +110,5 @@
 | :----: | ------- | -------- | --------| --------- | --------- | ----------- | ----------- |
 | 2021.06.25~07.04 | [숫자](https://www.acmicpc.net/problem/1131)   | [공항](https://www.acmicpc.net/problem/10775) | [Dance Dance Revolution](https://www.acmicpc.net/problem/2342) | [집합의 개수](https://www.acmicpc.net/problem/2092) | | | |
 | 2021.07.05~07.11 | [합](https://www.acmicpc.net/problem/1132)   | [크게 만들기](https://www.acmicpc.net/problem/2812) | [코딩은 예쁘게](https://www.acmicpc.net/problem/2879) | [문자열 생성](https://www.acmicpc.net/problem/6137) | [사촌](https://www.acmicpc.net/problem/9489) | | |
+| 2021.07.12~07.18 | [중량제한](https://www.acmicpc.net/problem/1939)   | [뒤집기](https://www.acmicpc.net/problem/1464) |  | | | | |
 
