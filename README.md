@@ -113,3 +113,4 @@
 | 2021.07.12~07.18 | [중량제한](https://www.acmicpc.net/problem/1939)   | [뒤집기](https://www.acmicpc.net/problem/1464) | [색종이 모으기](https://programmers.co.kr/learn/courses/30/lessons/12971) | [자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059)|[댄스파티](https://www.acmicpc.net/problem/2831) | | |
 | 2021.07.19~07.25 (해커톤) |    |  |  |  | | | |
 | 2021.07.26~08.01 | [용액](https://www.acmicpc.net/problem/2467)   | [특정한 최단 경로](https://www.acmicpc.net/problem/1504) | [출퇴근](https://www.acmicpc.net/problem/20313) | [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) | [추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676)| | |
+| 2021.07.26~08.01 | [내 선물을 받아줘](https://www.acmicpc.net/problem/15559)   | [괄호](https://www.acmicpc.net/problem/3345) |  |  |  | | |
