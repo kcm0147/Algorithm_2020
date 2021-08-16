@@ -114,3 +114,4 @@
 | 2021.07.19~07.25 (해커톤) |    |  |  |  | | | |
 | 2021.07.26~08.01 | [용액](https://www.acmicpc.net/problem/2467)   | [특정한 최단 경로](https://www.acmicpc.net/problem/1504) | [출퇴근](https://www.acmicpc.net/problem/20313) | [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) | [추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676)| | |
 | 2021.08.02~08.08 | [내 선물을 받아줘](https://www.acmicpc.net/problem/15559)   | [괄호](https://www.acmicpc.net/problem/3345) | [탑](https://www.acmicpc.net/problem/2493) | [1학년](https://www.acmicpc.net/problem/5557) | [홀짝](https://www.acmicpc.net/problem/11834) | | |
+| 2021.08.09~08.15 | [N번째 큰 수](https://www.acmicpc.net/problem/2075)  | [수 고르기](https://www.acmicpc.net/problem/2230) | [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895) | [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898) | [도둑질](https://programmers.co.kr/learn/courses/30/lessons/42897) | | |
